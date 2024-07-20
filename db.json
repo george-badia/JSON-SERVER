@@ -1,12 +1,12 @@
 {
   "images": {
     "heartPlusLogo": "images/heart-plus-logo.png",
-    "bmiCalculator": "images/bmi-calculator.jpg",
-    "heartRateMonitor": "images/heart-rate-monitor.jpg",
-    "symptomChecker": "images/symptom-checker.jpg",
-    "calorieCalculator": "images/calorie-calculator.jpg",
-    "doctor1": "images/doctor1.jpg",
-    "doctor2": "images/doctor2.jpg"
+    "bmiCalculator": "https://devsting.com/assets/js/javascript-bmi-calculator.png",
+    "heartRateMonitor": "https://forums.ni.com/t5/image/serverpage/image-id/257273i52FEE03B32CBA1AC?v=v2",
+    "symptomChecker": "https://play-lh.googleusercontent.com/cqO5UsxfVaO7Wi-Z_g4nPZlN4rkBZh8-41JlGG3ZL3DJxgvTMzkTVj-JBCpNzU_2Bac=w526-h296-rw",
+    "calorieCalculator": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUAO0cOS68PpfOBsp0E-pqWbyncTduNvfp6A&s",
+    "doctor1": "https://t4.ftcdn.net/jpg/05/49/68/55/240_F_549685570_kr4HGw1tElDWcXefLiHrEKpfkfao99oy.jpg",
+    "doctor2": "https://t3.ftcdn.net/jpg/06/43/62/52/240_F_643625246_773zQTySyc1ddwlmaGCmd3HjiO5AmJVp.jpg"
   },
   "posts": [
     {
